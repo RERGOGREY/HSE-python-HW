@@ -1,6 +1,6 @@
 streamlit==1.31.1
 pandas==2.2.3
-numpy==1.23.5
-requests==2.31.0
-plotly==5.18.0
+numpy>=1.26.0
+requests
+plotly
 setuptools
